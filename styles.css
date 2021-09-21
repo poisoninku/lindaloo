@@ -1,0 +1,12 @@
+body{background-color: #C0C0C0;}
+h1{color: #696969; font-family: Papyrus; font-size: 60px; margin-left: 250px; margin-right: 250px;}
+p{color: #696969; font-family:Copper Plate; font-size: 20px;margin-left:250px; margin-right: 250px; }
+img{margin-left: ; border-color:black ; border-width:20px ; border-style:dotted;}
+ul{color: #696969; text-decoration: none; list-style-type:check;}
+a{color: #696969; text-decoration: none;}
+a:hover {color:#696969; text-decoration: underline;}
+body{text-align: center;}
+
+ul li{
+  	display: inline-table;
+}
